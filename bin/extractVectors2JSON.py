@@ -1,7 +1,6 @@
 from gensim.models import Word2Vec
 import numpy
 
-
 def extractVectors2JSON(model, filename = "vectors.json", directory = ""):
 
     #calculate L2 vectors if needed
