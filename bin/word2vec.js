@@ -1,5 +1,9 @@
 var dic, vec_norm;
 
+/*
+Your html code needs to import math.js for some matrix functions (https://mathjs.org/)
+*/
+
 /**
  * Desc.  Calculate the set of words most similar to 2 array of words that contribute positively and/or negatively.
  *
